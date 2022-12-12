@@ -1,9 +1,9 @@
-# Installieren:
+# Install:
 
- - Drücken Sie die Windows-Taste auf Ihrer Tastatur.
- - Suchen Sie nach %Appdata% .
- - Gehen Sie in Ihren "Mods" Ordner (Falls dieser noch nicht vorhanden ist, erstellen sie einen Ordner mit dem Namen "Mods").
- - Nun muss die heruntergeladene Datei dort platziert werden.
- - Fertig.
+ - Press the Windows key on your keyboard.
+ - Search for %Appdata% .
+ - Go to your "Mods" folder (If it doesn't already exist, create a folder called "Mods").
+ - Now you need to place the downloaded file there.
+ - Done.
  
- --> Minecraft Starten
+ --> Launch Minecraft
